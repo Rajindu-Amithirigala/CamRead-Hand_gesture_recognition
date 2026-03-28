@@ -48,7 +48,7 @@ Built entirely in Python with no external servers or special hardware — just y
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-username/camread.git
+   git clone https://github.com/Rajindu-Amithirigala/camread.git
    cd camread
    ```
 
