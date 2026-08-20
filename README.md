@@ -1,8 +1,7 @@
 <div align="center">
 
-#CamRead
-
-**A real-time gesture recognition app powered by MediaPipe, OpenCV, and Python**
+# CamRead
+A real-time gesture recognition app powered by MediaPipe, OpenCV, and Python
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?style=flat-square&logo=opencv&logoColor=white)
@@ -21,7 +20,7 @@ Built entirely in Python with no external servers or special hardware — just y
 
 ---
 
-## ✋ Supported Gestures
+## Supported Gestures
 
 | Gesture | Sign | What It Triggers |
 |--------|------|-----------------|
@@ -33,7 +32,7 @@ Built entirely in Python with no external servers or special hardware — just y
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -68,7 +67,7 @@ Built entirely in Python with no external servers or special hardware — just y
 
 ---
 
-## 🏗️ How It Works
+## How It Works
 
 ```
 Webcam Feed
@@ -91,7 +90,7 @@ Tkinter GUI  ──►  Animated GIF plays in response, overlay shown on video f
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 | Package | Purpose |
 |--------|---------|
@@ -103,20 +102,7 @@ Tkinter GUI  ──►  Animated GIF plays in response, overlay shown on video f
 
 ---
 
-## 🗺️ Roadmap
-
-Things worth building next:
-
-- [ ] **Gesture-based interactions** — use gestures to control apps, media, or presentations
-- [ ] **Sound effects** — trigger audio clips alongside GIFs
-- [ ] **More gestures** — wave, OK sign, finger guns, pointing, etc.
-- [ ] **Custom GIF mapping** — let users assign their own GIFs to gestures
-- [ ] **Multi-hand support** — detect both hands simultaneously
-- [ ] **Confidence threshold tuning** — reduce false positives in tricky lighting
-
----
-
-## 🤝 Credits
+## Credits
 
 - [**MediaPipe**](https://mediapipe.dev/) by Google — hand tracking engine
 - [**OpenCV**](https://opencv.org/) — computer vision and video capture
