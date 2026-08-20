@@ -60,7 +60,7 @@ Built entirely in Python with no external servers or special hardware — just y
 3. **Run the app**
 
    ```bash
-   python main.py
+   python project.py
    ```
 
 4. Hit **Launch** on the start screen, point your webcam at your hand, and start gesturing.
