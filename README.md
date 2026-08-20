@@ -1,8 +1,6 @@
 <div align="center">
 
-# 📸 CamRead
-
-### *Your hands. Your gestures. Instant reactions.*
+#CamRead
 
 **A real-time gesture recognition app powered by MediaPipe, OpenCV, and Python**
 
